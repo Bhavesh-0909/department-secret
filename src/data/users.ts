@@ -23,7 +23,7 @@ export const users: User[] = [
     lastLogin: "2024-03-15T10:30:00Z"
   },
   {
-    id: 2,
+    id: 369,
     username: "bob",
     email: "bob@example.com",
     privateNote: "Found part 2/3 of admin secret: 'Rh4ck'",
@@ -33,7 +33,7 @@ export const users: User[] = [
     lastLogin: "2024-03-15T09:15:00Z"
   },
   {
-    id: 42,
+    id: 1703,
     username: "carol",
     email: "carol@example.com",
     privateNote: "Found part 3/3 of admin secret: '_Qu3st}'",
